@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c2e2c50-2e65-4e49-9565-dfc9fff32e13" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Gabriel Dias/Aula 01/Captura de tela 2026-02-27 210058.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gabriel Dias/Aula 01/Captura de tela 2026-02-27 210138.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gabriel Dias/Aula 01/Captura de tela 2026-02-27 210155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Guilherme Alves Portela/Aula 01/Print Bash rodando.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Guilherme Alves Portela/Aula 01/Print Branch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Guilherme Alves Portela/Aula 01/Print rodando na IDE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Isabel Gomes/Aula01/PrintRepo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Isabel Gomes/Aula01/print Bash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Isabel Gomes/Aula01/printJava.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joao Arataque/Aula 01/aula01_fork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joao Arataque/Aula 01/aula01_git_bash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joao Arataque/Aula 01/aula01_hello_world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../João Gabriel Kazmierczak/Aula 01/Bash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../João Gabriel Kazmierczak/Aula 01/Fork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../João Gabriel Kazmierczak/Aula 01/VSCode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Luiz fernando de souza rossato/Aula 01/ide com o codigo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Luiz fernando de souza rossato/Aula 01/print com o repositorio.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Luiz fernando de souza rossato/Aula 01/print do git bash.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Matheus Emanuel/Aula 01/PrintGitBash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Matheus Emanuel/Aula 01/PrintGitFork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Matheus Emanuel/Aula 01/PrintJava.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Pedro Augusto/Aula 01/print_fork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Pedro Augusto/Aula 01/print_git_bash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Pedro Augusto/Aula 01/print_java_rodando.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Samuel Babinski/Aula 01/print com tudo que eu preciso aqui.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Vinicius goncalves de oliveira/Aula 01/Screenshot 2026-02-27 203550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Vinicius goncalves de oliveira/Aula 01/Screenshot 2026-02-27 203700.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Vinicius goncalves de oliveira/Aula 01/Screenshot 2026-02-27 203813.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3Acc5EGIpEp65b2ZTmgshJGmtw2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Luizeira/Desktop/DOO-T03N-20261/Alunos/Luiz Otavio/Aula 02/LojadeFlores/src/Main.java&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c2e2c50-2e65-4e49-9565-dfc9fff32e13" name="Changes" comment="" />
+      <created>1772895115032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772895115032</updated>
+      <workItem from="1772895116849" duration="6175000" />
+      <workItem from="1772901613294" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
