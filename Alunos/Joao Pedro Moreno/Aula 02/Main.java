@@ -10,6 +10,7 @@ public class Main {
 		VerMenu();
 	}
 
+	//Menu visivel ao cliente
 	public static void VerMenu() {
 		int escolha = 0;
 
