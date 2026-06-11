@@ -16,7 +16,6 @@ public class ClimaApp extends JFrame {
     private JPanel cardClima;
     private JPanel fundo;
 
-    // 🔥 AUTOCOMPLETE
     private JPopupMenu popup = new JPopupMenu();
     private JList<String> lista = new JList<>();
 
@@ -32,7 +31,6 @@ public class ClimaApp extends JFrame {
         fundo = new JPanel(new BorderLayout(10, 10));
         fundo.setBackground(new Color(10, 12, 18));
 
-        // ===== TOPO =====
         JPanel topo = new JPanel();
         topo.setOpaque(false);
 
@@ -51,7 +49,6 @@ public class ClimaApp extends JFrame {
         topo.add(campoCidade);
         topo.add(btnBuscar);
 
-        // ===== CARD =====
         cardClima = new JPanel();
         cardClima.setLayout(new BoxLayout(cardClima, BoxLayout.Y_AXIS));
         cardClima.setBackground(new Color(30, 32, 40));
@@ -67,7 +64,6 @@ public class ClimaApp extends JFrame {
 
         add(fundo);
 
-        // ===== EVENTOS =====
         btnBuscar.addActionListener((ActionEvent e) -> buscarClima());
 
         campoCidade.getDocument().addDocumentListener(new DocumentListener() {
@@ -77,7 +73,6 @@ public class ClimaApp extends JFrame {
         });
     }
 
-    // ================= AUTOCOMPLETE =================
     private void buscarSugestoes(String texto) {
         if (texto.length() < 2) return;
 
@@ -117,7 +112,6 @@ public class ClimaApp extends JFrame {
             mostrarPopup(model);
 
         } catch (Exception e) {
-            // silencioso
         }
     }
 
@@ -140,7 +134,6 @@ public class ClimaApp extends JFrame {
         popup.show(campoCidade, 0, campoCidade.getHeight());
     }
 
-    // ================= CLIMA =================
     private void buscarClima() {
         try {
             String cidadeDigitada = campoCidade.getText().split(" - ")[0];
@@ -187,7 +180,6 @@ public class ClimaApp extends JFrame {
         }
     }
 
-    // ================= TEMA =================
     private void aplicarTema(String cond) {
         cond = cond.toLowerCase();
 
@@ -197,7 +189,6 @@ public class ClimaApp extends JFrame {
         else fundo.setBackground(new Color(15, 18, 25));
     }
 
-    // ================= UI =================
     private void atualizarUI(String cidade, double temp, double max, double min,
                              double hum, double vento, String cond) {
 
