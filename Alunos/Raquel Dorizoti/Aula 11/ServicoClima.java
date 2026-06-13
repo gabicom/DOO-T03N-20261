@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 
 public class ServicoClima {
 
-    private static final String API_KEY = "A9Q6PQFV7ZXUYQ64GFQ5JVK6P";
+    private static final String API_KEY = ""; //retirada a chave para ninguem mexer
 
     public Clima buscarClima(String cidade)
             throws IOException, InterruptedException {
